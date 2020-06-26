@@ -1,0 +1,12 @@
+.over{
+    width: 100%;
+    height: 100vh;
+    border: 1px black solid;
+    overflow: visible;
+
+    background-image: url("descarga.jpg");
+    background-repeat: no-repeat;
+    
+    
+    
+}
